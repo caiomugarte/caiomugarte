@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/caiomugarte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomugarte&layout=compact&langs_count=8&theme=dracula&exclude_repo=linuxdistro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomugarte&layout=compact&langs_count=8&theme=dracula&exclude_repo=linuxdistro,teamManagerCSGO"/>
 </div>
   
 <div style="display: inline_block"><br>
