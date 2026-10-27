@@ -16,7 +16,7 @@
 
 ## 🔭 No momento
 
-- Finalizando meu **TCC**: recomendação de carteiras de ações e FIIs por perfil de investidor usando algoritmo genético
+- Tocando a **ALTION**: CRM e agentes de IA no WhatsApp para pequenos negócios
 - Construindo fluxos de engenharia com agentes de IA (desenvolvimento guiado por spec e revisão automatizada de PRs)
 - Desenvolvendo projetos pessoais de finanças e trading quantitativo em Python
 
@@ -36,21 +36,21 @@ Por lá eu cuido principalmente de backend e soluções com IA: APIs em TypeScri
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [TCC](https://github.com/caiomugarte/TCC) | Recomenda alocação de carteira (ações e FIIs) por perfil de investidor com algoritmo genético sobre dados fundamentalistas | Python, FastAPI, PostgreSQL, Next.js |
+| **aitrading** _(privado)_ | Bot de trading de criptomoedas no mercado spot, com modelos de machine learning otimizados e alertas no Telegram | Python, pandas, scikit-learn, Optuna, ccxt |
+| **Clareza** _(privado)_ | App de finanças pessoais local-first | Next.js, React, TypeScript, TanStack Query, PostgreSQL |
+| [TCC](https://github.com/caiomugarte/TCC) | Meu TCC na UFSC: recomenda alocação de carteira (ações e FIIs) por perfil de investidor com algoritmo genético sobre dados fundamentalistas | Python, FastAPI, PostgreSQL, Next.js |
 | [park-view-radar](https://github.com/caiomugarte/park-view-radar) | Dashboard em tempo real da ocupação de vagas de estacionamento a partir de visão computacional | React, TypeScript, Tailwind, shadcn/ui |
-| [meu-microservico-quarkus](https://github.com/caiomugarte/meu-microservico-quarkus) | Microsserviço REST com Quarkus | Java, Quarkus |
-| [produto-api](https://github.com/caiomugarte/produto-api) | API REST de produtos com Spring Boot e JPA | Java, Spring Boot |
 
 ## 🛠️ Stack
 
 | Área | Tecnologias |
 |---|---|
 | **Linguagens** | <img alt="TypeScript, Python, Java, Go, JavaScript" src="https://skillicons.dev/icons?i=ts,py,java,go,js"> |
-| **Backend** | <img alt="Node.js, Fastify, Express, Prisma, Spring, Quarkus, FastAPI" src="https://skillicons.dev/icons?i=nodejs,fastify,express,prisma,spring,quarkus,fastapi"> |
+| **Backend** | <img alt="Node.js, Express, Prisma, Spring, FastAPI" src="https://skillicons.dev/icons?i=nodejs,express,prisma,spring,fastapi"> <img alt="Fastify" src="https://img.shields.io/badge/Fastify-242938?style=for-the-badge&logo=fastify&logoColor=white"> <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-242938?style=for-the-badge&logo=quarkus&logoColor=white"> |
 | **Frontend** | <img alt="React, Next.js, Vite, Tailwind" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"> |
 | **Dados e infra** | <img alt="PostgreSQL, Redis, RabbitMQ, Docker, AWS, GitHub Actions, Linux" src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,aws,githubactions,linux"> |
-| **IA e automação** | <img alt="Claude, LangChain, n8n" src="https://skillicons.dev/icons?i=anthropic,langchain,n8n"> |
-| **Testes** | <img alt="Vitest, Playwright" src="https://skillicons.dev/icons?i=vitest,playwright"> |
+| **IA e automação** | <img alt="Claude" src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=claude&logoColor=white"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-242938?style=for-the-badge&logo=langchain&logoColor=white"> <img alt="n8n" src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=white"> |
+| **Testes** | <img alt="Vitest" src="https://skillicons.dev/icons?i=vitest"> <img alt="Playwright" src="https://img.shields.io/badge/Playwright-242938?style=for-the-badge"> |
 
 <br><br>
 
